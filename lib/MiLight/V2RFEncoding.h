@@ -1,4 +1,4 @@
-#include <Arduino.h>
+//#include <Arduino.h>
 #include <inttypes.h>
 
 #ifndef _V2_RF_ENCODING_H
